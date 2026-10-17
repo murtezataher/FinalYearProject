@@ -1,0 +1,16 @@
+# Virtual Environments & Libraries
+Lib/
+library/
+venv/
+env/
+ENV/
+app/ai_recruiter/Lib/
+app/ai_recruiter/library/
+
+# API Keys & Secrets
+app/openai_config.py
+app/.streamlit/secrets.toml
+
+# Python Cache
+__pycache__/
+*.pyc

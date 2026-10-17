@@ -1,0 +1,60 @@
+APP DEV
+Key Responsibilities
+Architect, develop, and ship cross-platform Flutter apps for Android and iOS
+Write clean, maintainable Dart code following SOLID principles and Clean Architecture
+Integrate REST APIs and GraphQL endpoints from our Node.js and Django backends
+Implement state management using BLoC / Cubit or Riverpod across all modules
+Integrate Firebase services: Auth, Firestore, Cloud Messaging (FCM), Crashlytics, Analytics
+Build and maintain CI/CD pipelines using GitHub Actions and Fastlane for automated Play Store / App Store deployments
+Write unit, widget, and integration tests — maintain minimum 75% test coverage
+Lead code reviews for junior developers and enforce team coding standards
+Collaborate closely with UI/UX using Figma handoffs to pixel-perfect implementation
+Publish and manage app releases on Google Play Console and App Store Connect
+Profile and optimise app performance: memory, rendering (60fps target), startup time
+Diagnose and fix production crashes using Firebase Crashlytics and Sentry
+Required Technical Skills
+Core Flutter & Dart:
+Flutter SDK (3.x), Dart (null safety)
+BLoC / Cubit state management
+Riverpod or Provider (bonus)
+Clean Architecture / MVVM
+Custom widget development
+Backend Integration:
+REST API integration (Dio / http)
+GraphQL (graphql_flutter)
+WebSockets & real-time features
+Local storage: Hive, SQLite (sqflite)
+Firebase & Cloud:
+Firebase Auth, Firestore, Storage
+Firebase Cloud Messaging (FCM)
+Crashlytics, Performance Monitoring
+Google Maps SDK / Mapbox
+DevOps & Tooling:
+GitHub Actions CI/CD
+Fastlane (automated builds & deploy)
+Android Studio / Xcode
+Play Console & App Store Connect
+Must-Have Requirements
+Minimum 4 years of professional Flutter / mobile development experience
+At least 3 apps shipped to Play Store or App Store (shareable links required)
+Production experience with BLoC or Riverpod state management
+Hands-on Firebase integration in a live production app
+Experience leading or mentoring at least one other developer
+
+
+Nice to Have
+
+Experience with Flutter Web or Flutter Desktop
+Knowledge of native Android (Kotlin) or iOS (Swift) for platform-channel work
+Background in e-commerce, fintech, or on-demand apps
+Familiarity with Stripe or JazzCash / EasyPaisa payment SDKs
+Open source Flutter packages published on pub.dev
+Soft Skills
+Strong English communication (written and spoken) — UK/UAE client calls required
+Ownership mindset — you treat the app as if it were your own product
+Ability to estimate tasks accurately and meet deadlines consistently
+Proactive communication when blockers arise — no silent failures
+Mentorship ability — patience and clarity when reviewing junior code
+Experience & Education
+4+ years professional Flutter/mobile development (required)
+Bachelor's degree in Computer Science, Software Engineering, or equivalent

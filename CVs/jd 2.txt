@@ -1,0 +1,76 @@
+
+TechNova Solutions Pvt. Ltd.
+Job Opening — Senior .NET Developer
+📍 Lahore, Pakistan | 💼 Full-Time | 📅 Immediate | 💰 PKR 150,000–220,000/month
+
+About the Company
+TechNova Solutions is a fast-growing software house based in Lahore, Pakistan, delivering enterprise-grade web applications, ERP systems, and cloud-based platforms for clients across the UK, UAE, and USA. Our engineering team of 60+ developers works on cutting-edge .NET and Azure solutions.
+
+Role Overview
+We are looking for a Senior .NET Developer to join our core product team. You will lead development of high-performance RESTful APIs, mentor junior developers, and collaborate closely with product managers and DevOps engineers to ship reliable software on Azure. This is a hands-on technical leadership role — you will write production code every day.
+
+Key Responsibilities
+
+Design and develop scalable backend services using C# and ASP.NET Core (.NET 6/7/8)
+Build and maintain RESTful APIs consumed by Angular and React frontends
+Write complex queries, stored procedures, and optimize performance on MSSQL Server
+Lead code reviews, enforce coding standards, and mentor a team of 3–4 junior developers
+Design CI/CD pipelines using Azure DevOps and automate deployment to Azure App Service
+Collaborate with the architecture team on system design decisions and microservices migration
+Write unit and integration tests using xUnit and ensure minimum 80% code coverage
+Troubleshoot production incidents and deliver root-cause analysis within agreed SLAs
+Participate in sprint planning, backlog grooming, and daily standups (Agile/Scrum)
+Document technical decisions using Azure DevOps Wikis and architecture diagrams
+
+
+Required Technical Skills
+Core Technologies:
+
+C# (.NET 6/7/8)
+ASP.NET Core / Web API
+MSSQL Server (advanced queries, indexing, execution plans)
+Entity Framework Core
+Azure (App Service, Functions, Blob Storage)
+Azure DevOps (Pipelines, Boards, Repos)
+
+Supporting Skills:
+
+Git (branching strategy, pull requests)
+xUnit / NUnit (unit testing)
+Docker (basic containerization)
+Angular or React (read-level understanding)
+Redis (caching)
+Agile / Scrum methodology
+
+
+Must-Have Requirements
+
+Minimum 5 years of professional .NET/C# development experience
+Proven experience building production REST APIs consumed by real users
+Hands-on Azure deployment experience (not just familiarity)
+Strong MSSQL query optimization skills — able to read and write execution plans
+Experience leading or mentoring at least one junior developer
+
+
+Nice to Have
+
+Experience with microservices architecture and message queues (RabbitMQ / Azure Service Bus)
+Familiarity with Databricks or any big-data pipeline
+Background in Fintech, ERP, or SaaS product development
+Microsoft Azure certifications (AZ-900, AZ-204)
+
+
+Soft Skills
+
+Strong written and verbal communication in English
+Ability to lead and mentor junior team members effectively
+Proactive problem-solving and ability to work independently
+Stakeholder engagement and requirement clarification skills
+Attention to detail in code quality and documentation
+
+
+Experience & Education
+
+5+ years professional experience in .NET development (required)
+Bachelor's degree in Computer Science, Software Engineering, or equivalent
+Portfolio of shipped production systems preferred
